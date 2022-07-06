@@ -211,13 +211,13 @@
 .buy-charity {
     display: flex;
     justify-content: center;
-    margin-bottom: 100px;
+    margin: 50px 0 100px 0;
 }
 
 .buy-card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     width: 25%;
-    margin: 0 3%;
+    margin: 0 2%;
     padding-bottom: 40px;
     text-align: center;
     border-radius: 10px;
@@ -248,4 +248,50 @@ h4 {
 .price {
     color: grey;
     font-size: 22px;
+}
+
+.update-container {
+    margin-bottom: 100px;
+}
+
+.donate-email {
+    width: 60%;
+    text-align: center;
+    background-color: #FFF4D6;
+    margin: 50px auto 0 auto;
+    padding: 65px 0px;
+}
+
+.donate-email input {
+    font-family: 'Poppins', sans-serif;
+    color: #AA9F9F;
+    background-color: #D9D9D9;
+    border: none;
+    padding: 12px 60px 8px 15px;
+}
+
+.email-button {
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#FF5959, red);
+    padding: 10px 30px;
+    margin: -4px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 40px;
+}
+
+footer h3 {
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: #FF5959;
+}
+
+footer p {
+    font-family: 'Inter', sans-serif;
+    color: #D9D9D9;
 }
