@@ -230,6 +230,7 @@
 
 .buy-card img {
     width: 100%;
+    height: 300px;
     margin-bottom: 10px;
 }
 
@@ -292,8 +293,9 @@ footer {
 
 footer h3 {
     font-family: 'Lobster', cursive;
-    font-size: 36px;
+    font-size: 30px;
     color: #FF5959;
+    margin-bottom: 25px;
 }
 
 footer p {
