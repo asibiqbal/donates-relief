@@ -30,11 +30,15 @@
     margin-bottom: 20px;
 }
 
+.sylhet {
+    color: #FF5959;
+}
+
 .donate-banner p {
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     color: white;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .donate-button {
@@ -124,6 +128,7 @@
 
 .plan-box {
     width: 25%;
+    height: 30vh;
     padding: 60px 20px;
     margin: 0 1%;
     border-radius: 5px;
